@@ -23,7 +23,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity implements AdvancedWebView.Listener {
 
-    private static final String URL = "https://soap2day.com/";
+    private static final String URL = "https://www1.cmovieshd.bz/";
     private AdvancedWebView mWebView;
 
     @Override

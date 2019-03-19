@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "xyz.kapps.ssoap2day"
+        applicationId "xyz.kapps.cmovies"
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 1
